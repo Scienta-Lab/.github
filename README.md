@@ -1,11 +1,3 @@
----
-title: README
-emoji: 🦀
-colorFrom: purple
-colorTo: yellow
-sdk: static
-pinned: false
----
 
 <img src="Linkedin_Cover.png" alt="Scienta Lab Banner" width="100%">
 
