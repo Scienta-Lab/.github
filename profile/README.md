@@ -1,4 +1,4 @@
-<img src="Linkedin_Cover.png" alt="Scienta Lab Banner" width="100%">
+<img src="../Linkedin_Cover.png" alt="Scienta Lab Banner" width="100%">
 
 Welcome to the official GitHub organization of **Scienta Lab**. 
 
